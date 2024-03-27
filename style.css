@@ -1,0 +1,53 @@
+h1 {
+    font-family: Arial;
+    font-weight: bold;
+    color: #111;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.carro {
+    background-color: #111;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #fff;
+    padding: 30px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.bike {
+    background-color: #111;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #fff;
+    padding: 30px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.amarelo1 {
+    color: #febe01;
+}
+
+
+p {
+    color: #b2b2b2;
+    padding-bottom: 15px;
+}
+
+a {
+    background-color: #febe01;
+    border-radius: 4px;
+    color: #111;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 8px;
+}
